@@ -17,9 +17,9 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['62895807009474','6282143349069']
+global.owner = ['6282143349069','6282143349069']
 global.web = 'https://github.com/BlackBotZ991/'
-global.bot = 'RereBot-MD²'
+global.bot = 'MafiaBotZ-MD²'
 global.premium = ['6282143349069']
 global.packname = 'Black Hosting'
 global.author = 'Black Hosting'
