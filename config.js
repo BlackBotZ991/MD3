@@ -17,13 +17,13 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6285162634171','6285748894171']
-global.web = 'https://youtube.com/channel/UC2hMC3YSXSrDDhqOECXZkUg'
-global.bot = 'NahBotz-MD²'
-global.premium = ['6285748894171']
-global.packname = 'NakataArdnt'
-global.author = 'Nakata'
-global.sessionName = 'nahh'
+global.owner = ['62895807009474','6282143349069']
+global.web = 'https://github.com/BlackBotZ991/'
+global.bot = 'RereBot-MD²'
+global.premium = ['6282143349069']
+global.packname = 'Black Hosting'
+global.author = 'Black Hosting'
+global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
